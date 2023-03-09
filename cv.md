@@ -73,8 +73,8 @@ print(removeLast)
 GeekBrains - Web development
 
 ## Languages
-English - intermediate B1-B2
+**English** - intermediate B1-B2
 
 ![English - intermediate](english_level_new.png "English level")
 
-Russian - Native
+**Russian** - Native
